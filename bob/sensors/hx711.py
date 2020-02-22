@@ -1,9 +1,8 @@
-#
+# Taken from somewhere on GitHub
 
 import RPi.GPIO as GPIO
 import time
 import threading
-
 
 
 class HX711:
